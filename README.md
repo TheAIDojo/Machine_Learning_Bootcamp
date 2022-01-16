@@ -20,7 +20,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 ## What You Will Learn
 
 
-* [**WEEK 01 – INTRODUCTION TO PYTHON**]() 
+* [**WEEK 01 – INTRODUCTION TO PYTHON**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2001-%20%20Introduction%20to%20Python) 
 
     Review of the Python programming language that covers basic syntax, variables, arithmetic operations, control flow, functions, classes, and built-in Python modules. All applied using Google Colab. 
 
