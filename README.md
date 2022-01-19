@@ -24,7 +24,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Review of the Python programming language that covers basic syntax, variables, arithmetic operations, control flow, functions, classes, and built-in Python modules. All applied using Google Colab. 
 
-* [**WEEK 02 – DATA SCIENCE LIBRARIES**]()
+* [**WEEK 02 – DATA SCIENCE LIBRARIES**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2002%20-%20Data%20Science%20Libraries)
 
     Introduction to 3rd party Python libraries that are used to data science tasks like NumPy for working with numerical tensors and matrices, Pandas for working with tabular data, and Matplotlib for data visualization. 
 
