@@ -28,7 +28,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Introduction to 3rd party Python libraries that are used to data science tasks like NumPy for working with numerical tensors and matrices, Pandas for working with tabular data, and Matplotlib for data visualization. 
 
-* [**WEEK 03 – MACHINE LEARNING ALGORITHMS**]()
+* [**WEEK 03 – MACHINE LEARNING ALGORITHMS**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2003%20-%20Machine%20Learning%20Algorithms)
 
     Introduction to Scikit Learn, a machine learning library that covers a wide range of ML tasks like preprocessing and preparing data to defining, training, and tuning different machine learning algorithms to evaluating their performance and measure their accuracy. 
 
