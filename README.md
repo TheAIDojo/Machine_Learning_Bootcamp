@@ -32,7 +32,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Introduction to Scikit Learn, a machine learning library that covers a wide range of ML tasks like preprocessing and preparing data to defining, training, and tuning different machine learning algorithms to evaluating their performance and measure their accuracy. 
 
-* [**WEEK 04 – DEEP LEARNING ALGORITHMS**]()
+* [**WEEK 04 – DEEP LEARNING ALGORITHMS**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2004%20-%20Deep%20Learning%20Algorithms)
 
     Introduction to Deep Learning using TensorFlow framework and the building blocks that go into training deep learning models including Neural Network and its components like activation functions, loss function, optimizers, evaluation metrics, and data pipelines. 
 
