@@ -36,7 +36,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Introduction to Deep Learning using TensorFlow framework and the building blocks that go into training deep learning models including Neural Network and its components like activation functions, loss function, optimizers, evaluation metrics, and data pipelines. 
 
-* [**WEEK 05 – COMPUTER VISION**]()
+* [**WEEK 05 – COMPUTER VISION**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2005%20-%20Deep%20Learning%20for%20Computer%20Vision)
 
     Introduction to Convolutional Neural Networks (CNNs) using TensorFlow, images preprocessing and data pipelines, using pretrained models for Transfer Learning, and exploring different CNN architectures like ResNet, Inception, and more. 
 
