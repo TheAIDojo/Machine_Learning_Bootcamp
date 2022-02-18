@@ -40,7 +40,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Introduction to Convolutional Neural Networks (CNNs) using TensorFlow, images preprocessing and data pipelines, using pretrained models for Transfer Learning, and exploring different CNN architectures like ResNet, Inception, and more. 
 
-* [**WEEK 06 – COMPUTER VISION APPLICATIONS**]()
+* [**WEEK 06 – COMPUTER VISION APPLICATIONS**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2006%20%E2%80%93%20Computer%20Vision%20Applications)
 
     Build advanced computer vision-powered applications beyond basic image classification including object detection, semantic segmentation, and more advanced CNN training techniques. 
 
