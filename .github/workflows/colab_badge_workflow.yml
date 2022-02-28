@@ -1,0 +1,24 @@
+name: colab-badge-workflow
+on: [push]
+jobs:
+  add-colab-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout first
+        id: checkout
+        uses: actions/checkout@v2
+      - name: Add/Update badges
+        id: badges
+        uses: trsvchn/colab-badge-action@v3
+        with:
+          check: 'all'
+          update: true
+          target_branch: main
+          target_repository: TheAIDojo/Machine_Learning_Bootcamp
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: ${{ github.repository_owner }}
+          author_email: me@sabri.io
+          message: 'Added Colab Badges'
+          add: '*.ipynb'
