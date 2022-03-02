@@ -48,7 +48,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Introduction to Recurrent Neural Networks (RNNs) and its variations like GRUs and LSTMs which are used to sequential data like text and time series. We’ll use these Neural Networks to perform tasks like sentiment analysis and text generation. 
 
-* [**WEEK 08 – ADVANCED SEQUENCE APPLICATIONS**]()
+* [**WEEK 08 – ADVANCED SEQUENCE APPLICATIONS**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2008%20-%20Sequence%20Modeling%20Applications)
 
     Introduction to more advanced RNN-based architectures like Autoencoders. We’ll also build more sophisticated applications like Neural Machine Translation and Forecasting using RNN-based models. 
 
