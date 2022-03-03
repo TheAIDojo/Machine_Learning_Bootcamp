@@ -44,7 +44,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Build advanced computer vision-powered applications beyond basic image classification including object detection, semantic segmentation, and more advanced CNN training techniques. 
 
-* [**WEEK 07 – SEQUENCE MODELLING**]()
+* [**WEEK 07 – SEQUENCE MODELLING**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2007%20-%20Sequence%20Modeling)
 
     Introduction to Recurrent Neural Networks (RNNs) and its variations like GRUs and LSTMs which are used to sequential data like text and time series. We’ll use these Neural Networks to perform tasks like sentiment analysis and text generation. 
 
