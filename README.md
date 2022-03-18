@@ -52,11 +52,11 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     Introduction to more advanced RNN-based architectures like Autoencoders. We’ll also build more sophisticated applications like Neural Machine Translation and Forecasting using RNN-based models. 
 
-* [**WEEK 09 – MORE ADVANCED DL APPLICATIONS**]()
+* [**WEEK 09 – MORE ADVANCED DL APPLICATIONS**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2009%20-%20More%20Advanced%20DL%20Applications)
 
     We’ll explore more Deep Learning applications like Recommendation Systems. We’ll also introduce platforms like Gradio that helps us quickly build interactive demos for our Deep Learning models. 
  
-* [**WEEK 10 – MODEL DEPLOYMENT**]()
+* [**WEEK 10 – MODEL DEPLOYMENT**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2010%20-%20Mode%20Deployment)
 
     We’ll learn how to deploy and serve our trained models across different platforms including via REST APIs, mobile applications using TensorFlow Lite, or web pages using TensorFlow.js.
 
