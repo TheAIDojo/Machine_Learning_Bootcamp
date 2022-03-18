@@ -14,11 +14,11 @@ jobs:
           check: 'all'
           update: true
           target_branch: main
-          target_repository: TheAIDojo/Machine_Learning_Bootcamp
+          target_repository: TheAIDojo/Workshops
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
           author_name: ${{ github.repository_owner }}
-          author_email: me@sabri.io
+          author_email: mentzerhussein@gmail.com
           message: 'Added Colab Badges'
           add: '*.ipynb'
