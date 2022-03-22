@@ -19,6 +19,6 @@ jobs:
         uses: EndBug/add-and-commit@v7
         with:
           author_name: ${{ github.repository_owner }}
-          author_email: mentzerhussein@gmail.com
+          author_email: me@sabri.io
           message: 'Added Colab Badges'
           add: '*.ipynb'
