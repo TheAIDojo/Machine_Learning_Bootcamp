@@ -56,7 +56,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     We’ll explore more Deep Learning applications like Recommendation Systems. We’ll also introduce platforms like Gradio that helps us quickly build interactive demos for our Deep Learning models. 
  
-* [**WEEK 10 – MODEL DEPLOYMENT**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2010%20-%20Mode%20Deployment)
+* [**WEEK 10 – MODEL DEPLOYMENT with TENSORFLOW**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/main/Week%2010%20-%20Mode%20Deployment)
 
     We’ll learn how to deploy and serve our trained models across different platforms including via REST APIs and mobile applications using TensorFlow Lite.
 
