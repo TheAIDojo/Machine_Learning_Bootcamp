@@ -60,4 +60,6 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     We’ll learn how to deploy and serve our trained models across different platforms including via REST APIs and mobile applications using TensorFlow Lite.
 
+## Old Chapters 
 
+* [**Chapter 01**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/Chapter_01)
