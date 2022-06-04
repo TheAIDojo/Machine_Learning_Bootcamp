@@ -3,6 +3,9 @@
 
 This is the repository for The Machine Learning Bootcamp published by [AI DOJO](https://github.com/TheAIDojo). It contains all the Bootcamp code with supporting project files necessary to work through the code.
 
+**Note**: to access our previous Bootcamp resources, please refer to the below link
+* [**Previous Bootcamp**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/Chapter_01)
+
 ## Requirements and Setup
 
 We recommend to use [Colab](https://colab.research.google.com/?utm_source=scs-index), you will find Colab icon in the top of all AI DOJO code.
@@ -60,6 +63,3 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     We’ll learn how to deploy and serve our trained models across different platforms including via REST APIs and mobile applications using TensorFlow Lite.
 
-## Old Chapters 
-
-* [**Chapter 01**](https://github.com/TheAIDojo/Machine_Learning_Bootcamp/tree/Chapter_01)
