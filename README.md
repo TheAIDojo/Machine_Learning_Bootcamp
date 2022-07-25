@@ -20,7 +20,7 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 ## What You Will Learn
 
 
-* [**WEEK 01 – INTRODUCTION TO PYTHON**](Week%2001-%20%20Introduction%20to%20Python) 
+* [**WEEK 01 – INTRODUCTION TO PYTHON**](Week%2001%20-%20Introduction%20to%20Python) 
 
     Review of the Python programming language that covers basic syntax, variables, arithmetic operations, control flow, functions, classes, and built-in Python modules. All applied using Google Colab. 
 
@@ -56,8 +56,6 @@ With expert guidance and real-world examples the AI DOJO Machine Learning Bootca
 
     We’ll explore more Deep Learning applications like Recommendation Systems. We’ll also introduce platforms like Gradio that helps us quickly build interactive demos for our Deep Learning models. 
  
-* [**WEEK 10 – MODEL DEPLOYMENT with TENSORFLOW**](Week%2010%20-%20Mode%20Deployment)
+* [**WEEK 10 – MODEL DEPLOYMENT with TENSORFLOW**](Week%2010%20-%20Model%20Deployment)
 
     We’ll learn how to deploy and serve our trained models across different platforms including via REST APIs and mobile applications using TensorFlow Lite.
-
-
